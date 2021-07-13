@@ -1,0 +1,3 @@
+__CRIO__/metadata.json merge=copy-merge
+settings.gradle merge=copy-merge
+build.gradle merge=copy-merge
